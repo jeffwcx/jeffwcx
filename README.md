@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi There! 👋
+I'm Jeff, currently engaged in Design Systems & System Design.
 
+I'm a keen participant in open-source projects, contributing to community initiatives such as [dumi](https://github.com/umijs/dumi) and [happy-dom](https://github.com/capricorn86/happy-dom).
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jeffwcx&show_icons=true&theme=dark">](https://metrics.lecoq.io/jeffwcx?template=terminal)
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=jeffwcx)
 
-I am Jeff，previosly engaged in front-end development, now I am working on my new lowcode product.
+Personally, I'm working on:
++ [ohu](https://github.com/jeffwcx/ohu-mobile) (actively developing the Vue 3 version)
++ [Darkernal](https://github.com/darkernel)
 
-Here are some opensource projects，may be it will help you :)
-
-+ [ohu-mobile](https://github.com/jeffwcx/ohu-mobile) - Mobile UI Toolkit
-+ [前端程序员炼成手册](https://www.yuque.com/jeffwcx/festudy)
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
