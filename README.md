@@ -3,16 +3,14 @@ I'm Jeff, currently engaged in Design Systems & System Design.
 
 I'm a keen participant in open-source projects, contributing to community initiatives such as [dumi](https://github.com/umijs/dumi) and [happy-dom](https://github.com/capricorn86/happy-dom).
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=jeffwcx)
-
 Personally, I'm working on:
 + [ohu](https://github.com/jeffwcx/ohu-mobile) (actively developing the Vue 3 version)
-+ [Darkernal](https://github.com/darkernel)
++ [darkernel](https://github.com/darkernel)
 
 
 ----
 
-### :zap: Recent Activity
+### Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2065](https://github.com/umijs/dumi/pull/2065#issuecomment-2033055448) in [umijs/dumi](https://github.com/umijs/dumi)
