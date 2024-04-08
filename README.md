@@ -16,9 +16,9 @@ Personally, I'm working on:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/jeffwcx/ohu-mobile/pull/93) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
-2. 🗣 Commented on [#2065](https://github.com/umijs/dumi/pull/2065#issuecomment-2033055448) in [umijs/dumi](https://github.com/umijs/dumi)
-3. 💪 Opened PR [#2065](https://github.com/umijs/dumi/pull/2065) in [umijs/dumi](https://github.com/umijs/dumi)
-4. 🗣 Commented on [#1375](https://github.com/capricorn86/happy-dom/pull/1375#issuecomment-2031165783) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
-5. 💪 Opened PR [#2064](https://github.com/umijs/dumi/pull/2064) in [umijs/dumi](https://github.com/umijs/dumi)
+1. 🎉 Merged PR [#104](https://github.com/jeffwcx/ohu-mobile/pull/104) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
+2. 🎉 Merged PR [#102](https://github.com/jeffwcx/ohu-mobile/pull/102) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
+3. 🎉 Merged PR [#101](https://github.com/jeffwcx/ohu-mobile/pull/101) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
+4. ❌ Closed PR [#98](https://github.com/jeffwcx/ohu-mobile/pull/98) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
+5. 🎉 Merged PR [#93](https://github.com/jeffwcx/ohu-mobile/pull/93) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
 <!--END_SECTION:activity-->
