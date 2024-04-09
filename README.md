@@ -16,9 +16,9 @@ Personally, I'm working on:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#104](https://github.com/jeffwcx/ohu-mobile/pull/104) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
-2. 🎉 Merged PR [#102](https://github.com/jeffwcx/ohu-mobile/pull/102) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
-3. 🎉 Merged PR [#101](https://github.com/jeffwcx/ohu-mobile/pull/101) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
-4. ❌ Closed PR [#98](https://github.com/jeffwcx/ohu-mobile/pull/98) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
-5. 🎉 Merged PR [#93](https://github.com/jeffwcx/ohu-mobile/pull/93) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
+1. 🎉 Merged PR [#110](https://github.com/jeffwcx/ohu-mobile/pull/110) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
+2. 🎉 Merged PR [#108](https://github.com/jeffwcx/ohu-mobile/pull/108) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
+3. 🎉 Merged PR [#103](https://github.com/jeffwcx/ohu-mobile/pull/103) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
+4. 🎉 Merged PR [#104](https://github.com/jeffwcx/ohu-mobile/pull/104) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
+5. 🎉 Merged PR [#102](https://github.com/jeffwcx/ohu-mobile/pull/102) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
 <!--END_SECTION:activity-->
