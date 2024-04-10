@@ -16,9 +16,9 @@ Personally, I'm working on:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#112](https://github.com/jeffwcx/ohu-mobile/pull/112) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
-2. 🎉 Merged PR [#111](https://github.com/jeffwcx/ohu-mobile/pull/111) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
-3. 🎉 Merged PR [#107](https://github.com/jeffwcx/ohu-mobile/pull/107) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
-4. 🎉 Merged PR [#110](https://github.com/jeffwcx/ohu-mobile/pull/110) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
-5. 🎉 Merged PR [#108](https://github.com/jeffwcx/ohu-mobile/pull/108) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
+1. ❗ Opened issue [#1398](https://github.com/capricorn86/happy-dom/issues/1398) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
+2. 🎉 Merged PR [#112](https://github.com/jeffwcx/ohu-mobile/pull/112) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
+3. 🎉 Merged PR [#111](https://github.com/jeffwcx/ohu-mobile/pull/111) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
+4. 🎉 Merged PR [#107](https://github.com/jeffwcx/ohu-mobile/pull/107) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
+5. 🎉 Merged PR [#110](https://github.com/jeffwcx/ohu-mobile/pull/110) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
 <!--END_SECTION:activity-->
