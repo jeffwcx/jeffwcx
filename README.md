@@ -16,9 +16,9 @@ Personally, I'm working on:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#562](https://github.com/preactjs/signals/issues/562) in [preactjs/signals](https://github.com/preactjs/signals)
-2. 🗣 Commented on [#1399](https://github.com/capricorn86/happy-dom/pull/1399#issuecomment-2076362564) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
-3. 💪 Opened PR [#1399](https://github.com/capricorn86/happy-dom/pull/1399) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
-4. ❗ Opened issue [#1398](https://github.com/capricorn86/happy-dom/issues/1398) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
-5. 🎉 Merged PR [#112](https://github.com/jeffwcx/ohu-mobile/pull/112) in [jeffwcx/ohu-mobile](https://github.com/jeffwcx/ohu-mobile)
+1. 🗣 Commented on [#562](https://github.com/preactjs/signals/issues/562#issuecomment-2076443196) in [preactjs/signals](https://github.com/preactjs/signals)
+2. ❗ Opened issue [#562](https://github.com/preactjs/signals/issues/562) in [preactjs/signals](https://github.com/preactjs/signals)
+3. 🗣 Commented on [#1399](https://github.com/capricorn86/happy-dom/pull/1399#issuecomment-2076362564) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
+4. 💪 Opened PR [#1399](https://github.com/capricorn86/happy-dom/pull/1399) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
+5. ❗ Opened issue [#1398](https://github.com/capricorn86/happy-dom/issues/1398) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
 <!--END_SECTION:activity-->
