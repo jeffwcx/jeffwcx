@@ -16,9 +16,9 @@ Personally, I'm working on:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2094](https://github.com/umijs/dumi/issues/2094#issuecomment-2084737094) in [umijs/dumi](https://github.com/umijs/dumi)
-2. 🗣 Commented on [#1668](https://github.com/umijs/dumi/issues/1668#issuecomment-2082291491) in [umijs/dumi](https://github.com/umijs/dumi)
-3. 🗣 Commented on [#322](https://github.com/moonbitlang/core/issues/322#issuecomment-2080349660) in [moonbitlang/core](https://github.com/moonbitlang/core)
-4. ❗ Opened issue [#322](https://github.com/moonbitlang/core/issues/322) in [moonbitlang/core](https://github.com/moonbitlang/core)
-5. 💪 Opened PR [#2079](https://github.com/umijs/dumi/pull/2079) in [umijs/dumi](https://github.com/umijs/dumi)
+1. 🎉 Merged PR [#1](https://github.com/jeffwcx/jeffwcx-config/pull/1) in [jeffwcx/jeffwcx-config](https://github.com/jeffwcx/jeffwcx-config)
+2. 🗣 Commented on [#2094](https://github.com/umijs/dumi/issues/2094#issuecomment-2084737094) in [umijs/dumi](https://github.com/umijs/dumi)
+3. 🗣 Commented on [#1668](https://github.com/umijs/dumi/issues/1668#issuecomment-2082291491) in [umijs/dumi](https://github.com/umijs/dumi)
+4. 🗣 Commented on [#322](https://github.com/moonbitlang/core/issues/322#issuecomment-2080349660) in [moonbitlang/core](https://github.com/moonbitlang/core)
+5. ❗ Opened issue [#322](https://github.com/moonbitlang/core/issues/322) in [moonbitlang/core](https://github.com/moonbitlang/core)
 <!--END_SECTION:activity-->
