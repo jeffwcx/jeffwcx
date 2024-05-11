@@ -16,9 +16,9 @@ Personally, I'm working on:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1403](https://github.com/SBoudrias/Inquirer.js/pull/1403) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
-2. ❗ Opened issue [#376](https://github.com/vuejs/devtools-next/issues/376) in [vuejs/devtools-next](https://github.com/vuejs/devtools-next)
-3. 🎉 Merged PR [#2](https://github.com/jeffwcx/jeffwcx-config/pull/2) in [jeffwcx/jeffwcx-config](https://github.com/jeffwcx/jeffwcx-config)
-4. 🎉 Merged PR [#1](https://github.com/jeffwcx/jeffwcx-config/pull/1) in [jeffwcx/jeffwcx-config](https://github.com/jeffwcx/jeffwcx-config)
-5. 🗣 Commented on [#2094](https://github.com/umijs/dumi/issues/2094#issuecomment-2084737094) in [umijs/dumi](https://github.com/umijs/dumi)
+1. 💪 Opened PR [#1404](https://github.com/SBoudrias/Inquirer.js/pull/1404) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+2. 💪 Opened PR [#1403](https://github.com/SBoudrias/Inquirer.js/pull/1403) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+3. ❗ Opened issue [#376](https://github.com/vuejs/devtools-next/issues/376) in [vuejs/devtools-next](https://github.com/vuejs/devtools-next)
+4. 🎉 Merged PR [#2](https://github.com/jeffwcx/jeffwcx-config/pull/2) in [jeffwcx/jeffwcx-config](https://github.com/jeffwcx/jeffwcx-config)
+5. 🎉 Merged PR [#1](https://github.com/jeffwcx/jeffwcx-config/pull/1) in [jeffwcx/jeffwcx-config](https://github.com/jeffwcx/jeffwcx-config)
 <!--END_SECTION:activity-->
