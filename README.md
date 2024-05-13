@@ -16,9 +16,9 @@ Personally, I'm working on:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1403](https://github.com/SBoudrias/Inquirer.js/pull/1403#issuecomment-2108163821) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
-2. 🗣 Commented on [#1403](https://github.com/SBoudrias/Inquirer.js/pull/1403#issuecomment-2106115097) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
-3. 💪 Opened PR [#1404](https://github.com/SBoudrias/Inquirer.js/pull/1404) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
-4. 💪 Opened PR [#1403](https://github.com/SBoudrias/Inquirer.js/pull/1403) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
-5. ❗ Opened issue [#376](https://github.com/vuejs/devtools-next/issues/376) in [vuejs/devtools-next](https://github.com/vuejs/devtools-next)
+1. 🗣 Commented on [#1403](https://github.com/SBoudrias/Inquirer.js/pull/1403#issuecomment-2108332183) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+2. 🗣 Commented on [#1403](https://github.com/SBoudrias/Inquirer.js/pull/1403#issuecomment-2108163821) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+3. 🗣 Commented on [#1403](https://github.com/SBoudrias/Inquirer.js/pull/1403#issuecomment-2106115097) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+4. 💪 Opened PR [#1404](https://github.com/SBoudrias/Inquirer.js/pull/1404) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+5. 💪 Opened PR [#1403](https://github.com/SBoudrias/Inquirer.js/pull/1403) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
 <!--END_SECTION:activity-->
