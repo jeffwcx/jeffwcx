@@ -16,9 +16,9 @@ Personally, I'm working on:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1403](https://github.com/SBoudrias/Inquirer.js/pull/1403#issuecomment-2108332183) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
-2. 🗣 Commented on [#1403](https://github.com/SBoudrias/Inquirer.js/pull/1403#issuecomment-2108163821) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
-3. 🗣 Commented on [#1403](https://github.com/SBoudrias/Inquirer.js/pull/1403#issuecomment-2106115097) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
-4. 💪 Opened PR [#1404](https://github.com/SBoudrias/Inquirer.js/pull/1404) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
-5. 💪 Opened PR [#1403](https://github.com/SBoudrias/Inquirer.js/pull/1403) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+1. 🎉 Merged PR [#3](https://github.com/jeffwcx/jeffwcx-config/pull/3) in [jeffwcx/jeffwcx-config](https://github.com/jeffwcx/jeffwcx-config)
+2. 🗣 Commented on [#1403](https://github.com/SBoudrias/Inquirer.js/pull/1403#issuecomment-2108332183) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+3. 🗣 Commented on [#1403](https://github.com/SBoudrias/Inquirer.js/pull/1403#issuecomment-2108163821) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+4. 🗣 Commented on [#1403](https://github.com/SBoudrias/Inquirer.js/pull/1403#issuecomment-2106115097) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+5. 💪 Opened PR [#1404](https://github.com/SBoudrias/Inquirer.js/pull/1404) in [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
 <!--END_SECTION:activity-->
