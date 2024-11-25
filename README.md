@@ -16,9 +16,9 @@ Personally, I'm working on:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/jeffwcx/inquirer-select-pro/issues/8) in [jeffwcx/inquirer-select-pro](https://github.com/jeffwcx/inquirer-select-pro)
-2. 🗣 Commented on [#9](https://github.com/jeffwcx/inquirer-select-pro/issues/9#issuecomment-2445139470) in [jeffwcx/inquirer-select-pro](https://github.com/jeffwcx/inquirer-select-pro)
-3. 🔒 Closed issue [#9](https://github.com/jeffwcx/inquirer-select-pro/issues/9) in [jeffwcx/inquirer-select-pro](https://github.com/jeffwcx/inquirer-select-pro)
-4. 🎉 Merged PR [#10](https://github.com/jeffwcx/inquirer-select-pro/pull/10) in [jeffwcx/inquirer-select-pro](https://github.com/jeffwcx/inquirer-select-pro)
-5. 💪 Opened PR [#2211](https://github.com/umijs/dumi/pull/2211) in [umijs/dumi](https://github.com/umijs/dumi)
+1. 🔒 Closed issue [#2188](https://github.com/umijs/dumi/issues/2188) in [umijs/dumi](https://github.com/umijs/dumi)
+2. 🔒 Closed issue [#8](https://github.com/jeffwcx/inquirer-select-pro/issues/8) in [jeffwcx/inquirer-select-pro](https://github.com/jeffwcx/inquirer-select-pro)
+3. 🗣 Commented on [#9](https://github.com/jeffwcx/inquirer-select-pro/issues/9#issuecomment-2445139470) in [jeffwcx/inquirer-select-pro](https://github.com/jeffwcx/inquirer-select-pro)
+4. 🔒 Closed issue [#9](https://github.com/jeffwcx/inquirer-select-pro/issues/9) in [jeffwcx/inquirer-select-pro](https://github.com/jeffwcx/inquirer-select-pro)
+5. 🎉 Merged PR [#10](https://github.com/jeffwcx/inquirer-select-pro/pull/10) in [jeffwcx/inquirer-select-pro](https://github.com/jeffwcx/inquirer-select-pro)
 <!--END_SECTION:activity-->
