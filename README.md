@@ -16,9 +16,9 @@ Personally, I'm working on:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2238](https://github.com/umijs/dumi/pull/2238#issuecomment-2541076718) in [umijs/dumi](https://github.com/umijs/dumi)
-2. 🗣 Commented on [#2230](https://github.com/umijs/dumi/issues/2230#issuecomment-2514325503) in [umijs/dumi](https://github.com/umijs/dumi)
-3. 🗣 Commented on [#2230](https://github.com/umijs/dumi/issues/2230#issuecomment-2514313567) in [umijs/dumi](https://github.com/umijs/dumi)
-4. 🗣 Commented on [#2230](https://github.com/umijs/dumi/issues/2230#issuecomment-2513800352) in [umijs/dumi](https://github.com/umijs/dumi)
-5. 🎉 Merged PR [#4](https://github.com/jeffwcx/jeffwcx-config/pull/4) in [jeffwcx/jeffwcx-config](https://github.com/jeffwcx/jeffwcx-config)
+1. 🗣 Commented on [#11](https://github.com/jeffwcx/inquirer-select-pro/pull/11#issuecomment-2542908093) in [jeffwcx/inquirer-select-pro](https://github.com/jeffwcx/inquirer-select-pro)
+2. 🗣 Commented on [#11](https://github.com/jeffwcx/inquirer-select-pro/pull/11#issuecomment-2542903416) in [jeffwcx/inquirer-select-pro](https://github.com/jeffwcx/inquirer-select-pro)
+3. 🗣 Commented on [#2238](https://github.com/umijs/dumi/pull/2238#issuecomment-2541076718) in [umijs/dumi](https://github.com/umijs/dumi)
+4. 🗣 Commented on [#2230](https://github.com/umijs/dumi/issues/2230#issuecomment-2514325503) in [umijs/dumi](https://github.com/umijs/dumi)
+5. 🗣 Commented on [#2230](https://github.com/umijs/dumi/issues/2230#issuecomment-2514313567) in [umijs/dumi](https://github.com/umijs/dumi)
 <!--END_SECTION:activity-->
