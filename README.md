@@ -16,9 +16,9 @@ Personally, I'm working on:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2283](https://github.com/umijs/dumi/issues/2283#issuecomment-2870854572) in [umijs/dumi](https://github.com/umijs/dumi)
-2. 🎉 Merged PR [#6](https://github.com/jeffwcx/jeffwcx-config/pull/6) in [jeffwcx/jeffwcx-config](https://github.com/jeffwcx/jeffwcx-config)
-3. 🎉 Merged PR [#5](https://github.com/jeffwcx/jeffwcx-config/pull/5) in [jeffwcx/jeffwcx-config](https://github.com/jeffwcx/jeffwcx-config)
-4. 🗣 Commented on [#2238](https://github.com/umijs/dumi/pull/2238#issuecomment-2542938236) in [umijs/dumi](https://github.com/umijs/dumi)
-5. 🗣 Commented on [#11](https://github.com/jeffwcx/inquirer-select-pro/pull/11#issuecomment-2542908093) in [jeffwcx/inquirer-select-pro](https://github.com/jeffwcx/inquirer-select-pro)
+1. 🗣 Commented on [#13370](https://github.com/vuejs/core/pull/13370#issuecomment-2899853018) in [vuejs/core](https://github.com/vuejs/core)
+2. 💪 Opened PR [#13370](https://github.com/vuejs/core/pull/13370) in [vuejs/core](https://github.com/vuejs/core)
+3. 🗣 Commented on [#13366](https://github.com/vuejs/core/pull/13366#issuecomment-2899838895) in [vuejs/core](https://github.com/vuejs/core)
+4. 🗣 Commented on [#2283](https://github.com/umijs/dumi/issues/2283#issuecomment-2870854572) in [umijs/dumi](https://github.com/umijs/dumi)
+5. 🎉 Merged PR [#6](https://github.com/jeffwcx/jeffwcx-config/pull/6) in [jeffwcx/jeffwcx-config](https://github.com/jeffwcx/jeffwcx-config)
 <!--END_SECTION:activity-->
