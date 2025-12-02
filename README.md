@@ -16,7 +16,7 @@ Personally, I'm working on:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13370](https://github.com/vuejs/core/pull/13370#issuecomment-2899853018) in [vuejs/core](https://github.com/vuejs/core)
+1. ❌ Merged PR [#13370](undefined) in [vuejs/core](https://github.com/vuejs/core)
 2. 💪 Opened PR [#13370](https://github.com/vuejs/core/pull/13370) in [vuejs/core](https://github.com/vuejs/core)
 3. 🗣 Commented on [#13366](https://github.com/vuejs/core/pull/13366#issuecomment-2899838895) in [vuejs/core](https://github.com/vuejs/core)
 4. 🗣 Commented on [#2283](https://github.com/umijs/dumi/issues/2283#issuecomment-2870854572) in [umijs/dumi](https://github.com/umijs/dumi)
