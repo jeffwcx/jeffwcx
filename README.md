@@ -16,9 +16,9 @@ Personally, I'm working on:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2595](https://github.com/farion1231/cc-switch/issues/2595#issuecomment-4394497849) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
-2. 💪 Opened PR [#13370](https://github.com/vuejs/core/pull/13370) in [vuejs/core](https://github.com/vuejs/core)
-3. 🗣 Commented on [#13366](https://github.com/vuejs/core/pull/13366#issuecomment-2899838895) in [vuejs/core](https://github.com/vuejs/core)
-4. 🗣 Commented on [#2283](https://github.com/umijs/dumi/issues/2283#issuecomment-2870854572) in [umijs/dumi](https://github.com/umijs/dumi)
+1. 🎉 Merged PR [#4316](https://github.com/farion1231/cc-switch/pull/4316) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+2. 🗣 Commented on [#4316](https://github.com/farion1231/cc-switch/pull/4316#issuecomment-4716571948) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+3. 🗣 Commented on [#4316](https://github.com/farion1231/cc-switch/pull/4316#issuecomment-4716510537) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+4. 💪 Opened PR [#4316](https://github.com/farion1231/cc-switch/pull/4316) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
 5. 🎉 Merged PR [#6](https://github.com/jeffwcx/jeffwcx-config/pull/6) in [jeffwcx/jeffwcx-config](https://github.com/jeffwcx/jeffwcx-config)
 <!--END_SECTION:activity-->
