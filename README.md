@@ -16,8 +16,8 @@ Personally, I'm working on:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4316](https://github.com/farion1231/cc-switch/pull/4316) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
-2. 🗣 Commented on [#4316](https://github.com/farion1231/cc-switch/pull/4316#issuecomment-4716571948) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+1. 💪 Opened PR [#309](https://github.com/LodyAI/Lody/pull/309) in [LodyAI/Lody](https://github.com/LodyAI/Lody)
+2. ❗ Opened issue [#307](https://github.com/LodyAI/Lody/issues/307) in [LodyAI/Lody](https://github.com/LodyAI/Lody)
 3. 🗣 Commented on [#4316](https://github.com/farion1231/cc-switch/pull/4316#issuecomment-4716510537) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
 4. 💪 Opened PR [#4316](https://github.com/farion1231/cc-switch/pull/4316) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
 5. 🎉 Merged PR [#6](https://github.com/jeffwcx/jeffwcx-config/pull/6) in [jeffwcx/jeffwcx-config](https://github.com/jeffwcx/jeffwcx-config)
